@@ -3,7 +3,7 @@ def find_element_index(array, value_to_find)
   p array.find_index(value_to_find)
 end
 
-[1,2,1,3,4,3,5,4,3,2,1]
+find_element_index([1,2,1,3,4,3,5,4,3,2,1], 3)
   
 end
 
