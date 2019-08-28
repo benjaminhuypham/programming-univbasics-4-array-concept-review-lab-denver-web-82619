@@ -2,7 +2,8 @@ def find_element_index(array, value_to_find)
   # Add your solution here
   p array.find_index(value_to_find)
 end
-  
+
+[1,2,1,3,4,3,5,4,3,2,1]
   
 end
 
